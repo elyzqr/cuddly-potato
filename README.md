@@ -1,0 +1,24 @@
+# elyzqr.github.io<html> 
+
+<head> 
+<title> My Personal Website </title>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TN0GVGXFNK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TN0GVGXFNK');
+</script>
+</head>
+
+<body bgcolor="white" text="blue">
+
+<h1> My first page </h1>
+
+This is my first web page and I can say anything I want in here - I do that by putting text or images in the body section - where I'm typing right now :)
+
+</body>
+
+</html>
